@@ -7,7 +7,7 @@
 	<Category>Sample Editor</Category>
 	<Name>Batch Adjust Bit Depth</Name>
 	<Description>Change the bit depth of every sample in the current instrument. Bit depth value can be set as a maximum so that samples with lower bit depths do not change.</Description>
-	<Homepage>http://github.com/hryx</Homepage>
+	<Homepage>http://github.com/hryx/xrnx-batch-adjust-bit-depth</Homepage>
 	<Icon/>
 	<Platform/>
 </RenoiseScriptingTool>

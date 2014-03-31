@@ -4,8 +4,8 @@ Batch Adjust Bit Depth
 Description
 -----------
 
-This is a Renoise tool (XRNX) that allows you to change the bit depth of all
-samples in the currently selected instrument.
+This is a [Renoise](http://www.renoise.com/) tool (XRNX) that allows you to
+change the bit depth of all samples in the currently selected instrument.
 
 Caveats
 -------
@@ -18,8 +18,9 @@ non-standard sample rates are unsupported.
 Getting the tool
 ----------------
 
-Ideally, go to http://www.renoise.com/tools
-Or, you can turn the sources into a tool by zipping the files and changing
+Ideally, go to the [Renoise tools page](http://www.renoise.com/tools).
+
+Or, you can turn these sources into a tool by zipping the files and changing
 the file extension to .xrnx.
 
 License

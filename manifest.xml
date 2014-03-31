@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+	<ApiVersion>4.0</ApiVersion>
+	<Version>1.0</Version>
+	<Id>net.hryx.BatchAdjustBitDepth</Id>
+	<Author>hryx [codroid@gmail.com]</Author>
+	<Category>Sample Editor</Category>
+	<Name>Batch Adjust Bit Depth</Name>
+	<Description>Change the bit depth of every sample in the current instrument. Bit depth value can be set as a maximum so that samples with lower bit depths do not change.</Description>
+	<Homepage>http://github.com/hryx</Homepage>
+	<Icon/>
+	<Platform/>
+</RenoiseScriptingTool>
